@@ -65,6 +65,10 @@ main {
   flex-flow: column wrap;
   background-image: url("./images/img-mission-background.jpg");
 }
+
+.mission_statement {
+  background-color: black;
+}
 /* end mission */
 
 /* tea */
